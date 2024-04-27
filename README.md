@@ -13,8 +13,8 @@
 
  <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java |C 
-- 🌐 &nbsp; | HTML | CSS | JavaScript | Bootstrap |React.js
+- 💻 &nbsp; Java | C 
+- 🌐 &nbsp; | HTML | CSS | JavaScript | Bootstrap | React.js
 - 🛢 &nbsp; MySQL | Node.js | MongoDB | Express.js
 - 🔧 &nbsp; | Visual Studio code | Git
   
